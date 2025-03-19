@@ -61,8 +61,8 @@ Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 
 ```bash
 1] sudo apt-get update && apt-get install git
-2] sudo git clone https://github.com/jcllynnaf/Wifi-Attack
-3] cd Wifi-Attack/
+2] sudo git clone https://github.com/jcllynnaf/WIFI-Attack
+3] cd WIFI-Attack/
 4] sudo python3 wifi-attack.py
 ```
 
