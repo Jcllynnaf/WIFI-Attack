@@ -7,7 +7,7 @@
 
 
 
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+# WIFI-Attack.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
 
 
 
@@ -74,14 +74,12 @@ Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 # SCREENSHOT
 
 
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
+![](Snapshots/0.jpg)
+![](Snapshots/1.jpg)
+![](Snapshots/2.jpg)
+![](Snapshots/3.jpg)
+![](Snapshots/4.jpg)
+![](Snapshots/5.jpg)
 
 
 # Disclaimer 
